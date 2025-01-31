@@ -1,0 +1,54 @@
+
+[----------ninja custom zsh----------]
+ninja = sudo
+ninjajump = cd
+ninjaneo = neofetch
+ninjaf = which
+ninjacat = cat
+summary = apt
+ninjahelp = ninja --help
+mama.get = which --color
+ninja.mama = ninja --inf-mam
+mama = ninja --mama-full-visudo
+ninja.get = sudo apt-get
+ninja.install = sudo apt install
+ninja.inf - ninja --information
+ninjasay - echo
+ninja.pacman = sudo pacman -S
+nin = clear
+ninjas = source
+nino = ninja nano
+ninjaexe = wine 
+ninjayes = yes
+[----------how to use----------]
+mama.get <packed name>
+nino <file name>
+ninjas <file name>
+ninjaf <packed name>
+ninja apt instal <packed name>
+ninja.install <packed name>
+ninja.get remove <packed name>
+ninja.get autoremove
+ninja.pacman <packed name>
+ninjasay <text>
+ninja.install <packed name>
+ninjaca /path/to/file
+ninja.sum-install--summary.install <packed namne>
+[----------cannot use----------]
+ninja + summary
+ninja + ninjaneo
+ninja + ninjacat
+[----------installation----------]
+ninja.reinstall.get-ijk
+ninja.uninstall.get-ijk
+to install get and ijk you need file install.sh in my github repo
+[----------!!!----------]
+ninjaexe need wine to run
+ninja.get / ninja.install only run with apt-packed manager
+Pacman : ~not auto config~
+Summary : apt repo
+[----------credit----------]
+Nyaaak
+fxkyehh
+(all dev is VietNamese) 
+[---end---]
