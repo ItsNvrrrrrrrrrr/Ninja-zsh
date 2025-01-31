@@ -1,5 +1,5 @@
-uninstall --> /home
-reinstall --> /home
+move uninstall --> /home
+move reinstall --> /home
 .zshrc --> /home (chage the old .zshrc)
 firs step : mkdir Oninon
 nd : mv /path/to/install.sh /home/username/Oninon
