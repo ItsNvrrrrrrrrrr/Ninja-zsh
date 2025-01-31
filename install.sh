@@ -1,4 +1,5 @@
 #!/bin/zsh
+sudo mv ninja.nin /usr/bin
 sudo cp /home/$(echo $USER)/uninstall.sh /home/$(echo $USER)/Oninon
 sudo mv /home/$(echo $USER)/Oninon/uninstall.sh /usr/bin
 sudo cp /home/$(echo $USER)/reinstall.sh /home/$(echo $USER)/Oninon
